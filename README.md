@@ -2,7 +2,7 @@
 
 Todo app with pure JS and local server.
 
-![Todo app](https://github.com/CodersInHoods/Todo_app_js/blob/solution/images/todo_app_gif.gif)
+![Todo app](https://github.com/Vasile-Cojusco-Unipro/dms_tech_test/blob/master/images/design.png)
 
 ##### *As a user I should be able to:*
 
