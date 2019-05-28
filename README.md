@@ -11,10 +11,10 @@ Todo app with pure JS and local server.
 - complete task(emit custom goal "completed")
 - delete task from the list(emit custom goal "deleted")
 - Design should be matched
-- Add “Delete all” button to delete all tasks from the list asynchronously and sequentially. We want to see next sequence: 1) send request to the server, 2) get response that item has been removed, 3) remove element from DOM, 4) repeat from step 1 until we remove all tasks. 
+- Add “Delete all” button to delete all tasks from the list asynchronously and sequentially. We want to see next sequence: 1) send request to the server, 2) get response that item has been removed, 3) remove element from DOM, 4) repeat from step 1 until we remove all tasks.
 - You need to use all supplied function(poller, emitCustomGoal and removeInterval).
 
-##### Bonus: 
+##### Bonus:
 
 - Track how many tasks were completed. Each task should be completed only once
 - Track how many tasks were removed
@@ -30,7 +30,7 @@ Todo app with pure JS and local server.
 5. Open ```index.html```
 6. Font family - 'Roboto'
 
-This task is simple, but we expect to see very clean and structured code with attention to details.  
+This task is simple, but we expect to see very clean and structured code with attention to details.
 
 *No front-end libraries or frameworks.*
 
