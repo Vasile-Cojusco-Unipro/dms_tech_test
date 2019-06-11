@@ -7,7 +7,6 @@ Todo app with pure JS and local server.
 ##### *As a user I should be able to:*
 
 - create new Task
-- Edit a task (title and details)
 - complete task(emit custom goal "completed")
 - delete task from the list(emit custom goal "deleted")
 - Design should be matched
@@ -25,7 +24,7 @@ Todo app with pure JS and local server.
 
 1. Make sure you installed Node.js.
 2. Check that you have installed npm.
-3. Opne project folder and run ```npm install```
+3. Open project folder and run ```npm install```
 4. Start your local server with ```json-server --watch db.json```
 5. Open ```index.html```
 6. Font family - 'Roboto'
